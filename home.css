@@ -1,0 +1,69 @@
+#navbarSupportedContent{
+    color: white;
+}
+
+.out{
+    color: white;
+}
+
+.row{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.col-left{
+    padding: 5px 15px 0px 10px;
+    border-left: 0.5px solid black;
+}
+
+.col-center{
+    padding: 5px 15px 0px 35%;
+}
+
+.col-right{
+    padding: 5px 15px 0px 25%;
+}
+
+.bottom-bar{
+    padding-left: 40%;
+    padding-top: 35%;
+}
+
+.color1{
+    background-color: #3d76ba;
+    color: aliceblue;
+    }
+    .nav-link{
+      color: aliceblue;
+    }
+    
+
+
+
+.row{
+    border-style: dashed;
+    width: 95.5%;
+    
+}
+.c1{
+    margin-left: 1.5%;
+    border-right: solid ;
+    border-bottom: solid;
+    width: 31%;
+    height: 90%;
+    word-break: break-all;
+    
+}
+.c2{
+    border-right: solid ;
+    width: 30%;
+}
+.c3{
+    border: solid ;
+    width: 30%;
+}
+.t1{
+    border: solid;
+}
+
+
